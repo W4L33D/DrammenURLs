@@ -22,8 +22,12 @@ sites:
     url: https://borbib.bib.no
   - name: GeoDoc
     url: https://braarkiv.no/drammen
-  - name: Vegvesen
+  - name: Vegvesen- - 404
     url: https://brutus.atlas.vegvesen.no/minside
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: CarAdmin
     url: https://car.caradmin.no/
   - name: Ardoq
@@ -82,6 +86,116 @@ sites:
     url: https://drammenkommune.stiftelsen-asta.no/
   - name: Test Extend
     url: https://drammentest.extend.no/
+  - name: PrintWeb
+    url: https://drmk.impleoweb.no/
+  - name: DriftWeb
+    url: https://dw3.dk/shared/account/signin
+  - name: Facilit
+    url: https://fdvu.net/
+  - name: Visma Flyt Sikker sak
+    url: https://flyt-sikkersak-public.visma.com/
+  - name: Framsikt - 404
+    url: https://framiskt.net
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+  - name: Galterud Skole
+    url: https://gltbib.bib.no
+  - name: Junglemap
+    url: https://go.nanolearning.com/
+  - name: Grafana Opsis
+    url: https://grafana.opsis.se/
+  - name: Gravekoordinering
+    url: https://gravekoordinering.no/kgrav
+  - name: Gulskogen Skole
+    url: https://gulbib.bib.no
+  - name: Norsk helsenett join nhn
+    url: https://join.nhn.no/webapp2/home
+  - name: Konnerud Skole
+    url: https://knrbib.bib.no
+  - name: CIM
+    url: https://kommunecim.no/bu/drammen/
+  - name: Kostrahjelp
+    url: https://kostrahjelp.no/
+  - name: Kundeportal Certego
+    url: https://kundeportal.certego.no/login 
+  - name: LCDrammen - 404
+    url: https://lcdrammen.drammen.kommune.no/WE.EC.NO.Integration.Host/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+  - name: Mediearkiv
+    url: https://mediearkiv.drammen.kommune.no/
+  - name: Minlegevakt
+    url: https://minlegevakt.no
+  - name: Åsen skole
+    url: https://neasnsk.bib.no
+  - name: Eknes ungdomsskole
+    url: https://neeknsk.bib.no
+  - name: Killingrud ungdomsskole
+    url: https://nekilsk.bib.no
+  - name: Krokstad skole
+    url: https://nekrosk.bib.no
+  - name: Mjøndalen skolebibliotek
+    url: https://nemjosk.bib.no
+  - name: Solberg skolebibliotek
+    url: https://nesolsk.bib.no
+  - name: Stenseth skolebiblioteket
+    url: https://nestensk.bib.no
+  - name: Steinberg skolebibliotek
+    url: https://nestesk.bib.no
+  - name: Veivangen ungdomsskole bibliotek
+    url: https://neveisk.bib.no
+  - name: Drammen kulturskole ID porten
+    url: https://nodrammen.speedadmin.dk/account/signin?&ReturnUrl=%2F&
+  - name: Nye Drammen EB Public 360 online
+    url: https://nyedrammen-eb.public360online.com/
+  - name: Nye Drammen Public 360 online
+    url: https://nyedrammen.public360online.com/
+  - name: ACE Health
+    url: https://openfitapi.groupnos.com/#/
+  - name: Login ID porten
+    url: https://passord.drammen.kommune.no
+  - name: Sweco
+    url: https://rosyweb.no/Login
+  - name: SMP Drammen Ondni
+    url: https://smpdrammen.ondni.com/
+  - name: EQS by extend
+    url: https://svelvikhistorisk.extend.no/
+  - name: Svelvik ungdomsskole
+    url: https://svkubib.bib.no
+  - name: Tangen skole
+    url: https://tgnbib.bib.no
+  - name: Tømmerås skole
+    url: https://tmrbib.bib.no
+  - name: U4DK Erpexp-Drammenrdweb
+    url: https://u4dk.public.cloudservices.no/Erpexp-Drammenrfdweb
+  - name: Varnett
+    url: https://varnett.no/portal
+  - name: Varsling24
+    url: https://varsling24.net/
+  - name: AddSecure
+    url: https://www.addsecure.no
+  - name: Aktiv Kommune
+    url: https://www.aktiv-kommune.no/manual-publikum/
+  - name: Kursportal
+    url: https://www.drmk-kursportal.no/
+  - name: eDialog
+    url: https://www.edialog24.no/client
+  - name: Flyt Samspill
+    url: https://www.individplan.no/samspill
+  - name: Sticos
+    url: https://www.sticos.no/logg-inn
+  - name: Viascan
+    url: https://www.viascan.no/
+  - name: Viatraffic - 401
+    url: https://www.viatraffic.com/viaservicecenter/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
