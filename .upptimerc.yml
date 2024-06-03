@@ -16,6 +16,72 @@ sites:
     # port: 200
     # check: "tcp-ping"
     # ipv6: true
+  - name: Attic
+    url: https://attic-dk-vs3.icapire.net/
+  - name: Børresen Skolebibliotek
+    url: https://borbib.bib.no
+  - name: GeoDoc
+    url: https://braarkiv.no/drammen
+  - name: Vegvesen
+    url: https://brutus.atlas.vegvesen.no/minside
+  - name: CarAdmin
+    url: https://car.caradmin.no/
+  - name: Ardoq
+    url: https://d-ikt.ardoq.com
+  - name: InfoCaption
+    url: https://d-ikt.infocaption.com/portal/DRMK-master
+  - name: Trintech
+    url: https://deactx.cadency.trintech.com/
+  - name: Åskollen Skolebibliotek
+    url: https://dkaassk.bib.no
+  - name: Aronsløkka Skolebibliotek
+    url: https://dkaronsk.bib.no
+  - name: Bragernes Skolebibliotek
+    url: https://dkbragsk.bib.no
+  - name: Brandenen Skolebibliotek
+    url: https://dkbransk.bib.no
+  - name: Danvik Skolebibliotek
+    url: https://dkdansk.bib.no
+  - name: Fjell Skolebibliotek.
+    url: https://dkfjelsk.bib.no
+  - name: Frydenhaug Skolebibliotek
+    url: https://dkfrydsk.bib.no
+  - name: Hallermoen Skolebibliotek
+    url: https://dkhallsk.bib.no
+  - name: Kjøsterud Skole
+    url: https://dkkjosk.bib.no
+  - name: Øren Skolebibliotek
+    url: https://dkoresk.bib.no
+  - name: Rødskog Skolebibliotek
+    url: https://dkrodsk.bib.no
+  - name: Skoger Skolebibliotek
+    url: https://dkskogsk.bib.no
+  - name: Marienlyst Skole
+    url: https://dkstrosk.bib.no
+  - name: Vestbygda Skolebibliotek
+    url: https://dkvestsk.bib.no
+  - name: ArcGIS
+    url: https://drammen-kommune.maps.arcgis.com/
+  - name: Drammen Extend
+    url: https://drammen.extend.no/
+  - name: Geminisuite
+    url: https://drammen.geminisuite.com/portal/map
+  - name: Quria
+    url: https://drammen.quria.axiell.com/
+  - name: Public 360 Online
+    url: https://drammendata-ea.public360online.com/
+  - name: EQS by extend
+    url: https://drammenhistorisk.extend.no/
+  - name: Drammen Kart
+    url: https://drammenkart.nois.no/webinnsyn
+  - name: Fotoware
+    url: https://drammenkommune.fotoware.cloud/fotoweb
+  - name: ServiceNow
+    url: https://drammenkommune.service-now.com/
+  - name: Asta
+    url: https://drammenkommune.stiftelsen-asta.no/
+  - name: Test Extend
+    url: https://drammentest.extend.no/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
