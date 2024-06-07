@@ -160,7 +160,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-06": 1388,
+      "2024-06-07": 10,
+      "2024-06-06": 1440,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
       "2024-06-03": 399
@@ -568,18 +569,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/drammendata-ea.public360online.com.ico",
     "slug": "public-360-online",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "98.64%",
+    "uptimeDay": "95.49%",
+    "uptimeWeek": "98.64%",
+    "uptimeMonth": "98.64%",
+    "uptimeYear": "98.64%",
     "time": 780,
     "timeDay": 571,
     "timeWeek": 780,
     "timeMonth": 780,
     "timeYear": 780,
     "dailyMinutesDown": {
-      "2024-06-06": 3
+      "2024-06-07": 10,
+      "2024-06-06": 55
     }
   },
   {
@@ -671,7 +673,8 @@
     "timeMonth": 475,
     "timeYear": 475,
     "dailyMinutesDown": {
-      "2024-06-06": 1388,
+      "2024-06-07": 10,
+      "2024-06-06": 1440,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
       "2024-06-03": 459
@@ -766,7 +769,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-06": 1388,
+      "2024-06-07": 10,
+      "2024-06-06": 1440,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
       "2024-06-03": 396
@@ -789,7 +793,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-06": 1388,
+      "2024-06-07": 10,
+      "2024-06-06": 1440,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
       "2024-06-03": 396
@@ -992,7 +997,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-06": 1388,
+      "2024-06-07": 10,
+      "2024-06-06": 1440,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
       "2024-06-03": 396
@@ -1022,18 +1028,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/minlegevakt.no.ico",
     "slug": "minlegevakt",
     "status": "up",
-    "uptime": "69.10%",
+    "uptime": "68.19%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "69.10%",
-    "uptimeMonth": "69.10%",
-    "uptimeYear": "69.10%",
+    "uptimeWeek": "68.19%",
+    "uptimeMonth": "68.19%",
+    "uptimeYear": "68.19%",
     "time": 1073,
     "timeDay": 964,
     "timeWeek": 1073,
     "timeMonth": 1073,
     "timeYear": 1073,
     "dailyMinutesDown": {
-      "2024-06-06": 1388,
+      "2024-06-07": 10,
+      "2024-06-06": 1440,
       "2024-06-05": 53
     }
   },
@@ -1414,7 +1421,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-06": 1388,
+      "2024-06-07": 10,
+      "2024-06-06": 1440,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
       "2024-06-03": 395
@@ -1599,7 +1607,8 @@
     "timeMonth": 413,
     "timeYear": 413,
     "dailyMinutesDown": {
-      "2024-06-06": 1388,
+      "2024-06-07": 10,
+      "2024-06-06": 1440,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
       "2024-06-03": 395
